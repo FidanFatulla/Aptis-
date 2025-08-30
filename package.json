@@ -1,21 +1,15 @@
+
 {
-  "name": "unec-aptis-practice-portal",
+  "name": "unec-aptis-portal",
+  "version": "1.0.0",
+  "description": "An AI-powered Aptis practice test portal for UNEC students.",
   "private": true,
-  "version": "0.0.0",
-  "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
   "dependencies": {
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1",
     "@google/genai": "^1.16.0"
   },
   "devDependencies": {
-    "@types/node": "^22.14.0",
-    "typescript": "~5.8.2",
-    "vite": "^6.2.0"
+    "@types/node": "^20.11.24",
+    "@vercel/node": "^3.0.25",
+    "typescript": "^5.3.3"
   }
 }
