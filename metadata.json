@@ -1,0 +1,7 @@
+{
+  "name": "UNEC Aptis Practice Portal",
+  "description": "A comprehensive Aptis test-taking portal designed for UNEC university students to practice for the General Aptis exam. It features AI-generated tests for reading, speaking, writing, grammar, and vocabulary.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
